@@ -1,0 +1,10 @@
+[theme]
+# Paleta Roja Profesional - AIJ Connect
+primaryColor = "#C41E3A"           # Rojo granate
+backgroundColor = "#FAFAFA"         # Blanco roto
+secondaryBackgroundColor = "#FFF5F5" # Rosa
+textColor = "#2D3748"               # Gris oscuro
+font = "sans serif"
+
+[server]
+runOnSave = true

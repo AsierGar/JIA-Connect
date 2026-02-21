@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+venv/
+venv_crew/
+.venv/
+
+# Vector databases (regenerated with ingest scripts)
+ai_backend/vector_db/
+ai_engine/vector_db/
+mobile_app/faiss_index_ollama/
+
+# Patient data (sensitive / example)
+mobile_app/pacientes.json
+mobile_app/historial_pacientes.json
+mobile_app/fotos_pacientes/
+mobile_app/documentos_pacientes/
+mobile_app/usuarios.json
+
+# Medical PDFs (copyrighted clinical guidelines)
+data/
+
+# IDE
+.vscode/
+.idea/
+.cursor/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Environment variables
+.env
