@@ -178,11 +178,10 @@ The system analyzes the treatment plan by:
 
 **Asier García**
 
-Capstone Project — Instituto de Inteligencia Artificial (IIA)
-January 2026
+Presented at the [8th Digital Rheumatology Days](https://digitalrheumatology.org/8th-digital-rheumatology-days/) — Berlin, May 2026
 
 ---
 
 ## 📄 License
 
-This project is part of an academic assignment. For educational use only.
+This project is for educational and research purposes only.
