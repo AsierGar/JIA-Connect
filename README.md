@@ -25,7 +25,7 @@ JIA-Connect is designed for pediatric rheumatologists and provides:
 
 ## 🎯 Problem Statement
 
-Dosing errors with high-risk medications are a critical concern in pediatric rheumatology. JIA-Connect addresses this by:
+Dosing errors with high-risk medications (such as Methotrexate) are a critical concern in pediatric rheumatology. JIA-Connect addresses this by:
 
 1. **Automatically validating** prescriptions against indexed clinical guidelines
 2. **Alerting the physician** when a dose exceeds recommended limits
@@ -170,7 +170,7 @@ The system analyzes the treatment plan by:
 
 ## 🎥 Demo
 
-*Coming soon*
+[![JIA-Connect Demo](https://img.youtube.com/vi/DX9yS_NGM3M/maxresdefault.jpg)](https://youtu.be/DX9yS_NGM3M)
 
 ---
 
